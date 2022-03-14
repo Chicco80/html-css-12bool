@@ -18,6 +18,31 @@
     flex-basis: 0;
     max-width: 100%;
 }
+.start-xs{
+    justify-content: flex-start;
+    text-align: left;
+}
+.center-xs{
+    justify-content: center;
+    text-align: center;
+}
+.end-xs{
+    justify-content: flex-end;
+    text-align: right;
+}
+.middle-xs{
+    align-items: center;
+
+}
+.around-xs{
+    justify-content: space-around;
+}
+.between-xs{
+    justify-content: space-between;
+}
+
+
+
 
 .col-xs-1{
     width: calc((100% / 12) * 1);
