@@ -1,0 +1,23 @@
+.debug{
+    border: 1px solid black;
+    
+}
+.box,
+.box-nested{
+    min-height: 50px;
+    background-color: lightskyblue;
+    border: 1px solid white;
+    text-align: center;
+    color:white;
+    padding: 15px;
+}
+.box-nested{
+    background-color: #00e165;
+    border-color: lightskyblue;
+}
+.box-large{
+    height: 100px;
+}
+section{
+    margin-bottom: 20px;
+}
